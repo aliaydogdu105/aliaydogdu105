@@ -6,8 +6,7 @@
 <span>&#10553;</span>
 
 - 👀 I'm interested in Full-Stack development
-- 🔭 I'm currently learning Django and Docker, and plan to continue with Next.js, TypeScript, and Node.js afterwards
-- 💬 Do you have any questions about React, Django or web development? Ask me. I'd be happy to help...
+- 💬 Do you have any questions about React, Next.js, Django, or web development? Ask me. I'd be happy to help.
 
 <span>&#8230;</span>
 
