@@ -53,9 +53,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgreSQL" width="50" height="50"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="50" height="50"/>
-  </a>
   <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
   </a>
