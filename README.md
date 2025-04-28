@@ -25,7 +25,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer">
@@ -73,5 +76,5 @@
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliaydogdu/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaydogdu105@gmail.com)
 
 - <a href="https://aliaydogdu.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.nicepng.com/png/full/111-1112693_portfolio-my-portfolio.png" alt="myportfolio" width="90" />
+    <img src="https://st.depositphotos.com/1008096/57720/i/450/depositphotos_577208356-stock-photo-portfolio-text-quote-card-concept.jpg" alt="myportfolio" width="90" />
   </a>
