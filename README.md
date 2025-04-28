@@ -25,7 +25,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="nextjs" width="50" height="50"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
